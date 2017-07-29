@@ -1,2 +1,2 @@
 # Getting started with html 
-Making your first project Intro to Programming Nanodegree Udacity
+Intro to Programming Nanodegree Udacity Making your first project 
